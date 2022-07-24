@@ -1,8 +1,7 @@
 
 <h1 align="center"> 👋🏻 Hey there, Rishi here</h1>
-<h3 align="center">Passionate on building products from scratch.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/OOpRj.gif">
+<h3 align="center">Passionate on building products from scratch. <br></h3>
+<img align="right" alt="Coding" width="300" src="https://i.imgur.com/OOpRj.gif">
 
 - 🌱 I’m currently learning **Fullstack Development**
 
