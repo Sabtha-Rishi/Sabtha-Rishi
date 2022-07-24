@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Sabtha Rishi</h1>
-<h3 align="center">A fullstack developer from Chennai, Tamil Nadu. Passionate on building products from scratch.</h3>
+<h1 align="center"> 👋🏻 Hey there, Rishi here</h1>
+<h3 align="center">Passionate on building products from scratch.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/OOpRj.gif">
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- 👨‍💻 All of my projects are available at [https://cuvette.tech/app/public/profile/61bc9c8e2d2aab2f1bee97d9](https://cuvette.tech/app/public/profile/61bc9c8e2d2aab2f1bee97d9)
+- 👨‍💻 All of my projects are available [HERE](https://cuvette.tech/app/public/profile/61bc9c8e2d2aab2f1bee97d9)
 
 - 💬 Ask me about **Node JS, DSA, movies🍿**
 
